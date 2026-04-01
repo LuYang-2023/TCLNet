@@ -3,4 +3,4 @@
 # Model architecture diagram
 
 
-![：](MLCA-flow.png)
+![](TCL_Network_new.png)
