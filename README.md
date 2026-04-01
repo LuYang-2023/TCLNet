@@ -12,5 +12,5 @@ The source code is currently under preparation and will be publicly released upo
 
 ## 2、Selected experimental results
 
-![experimental results](TCL_Network_new.png)
+![experimental results](Experimental Results.png)
 
