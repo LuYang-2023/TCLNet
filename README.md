@@ -12,7 +12,7 @@ The source code is currently under preparation and will be publicly released upo
 
 ## 2、Selected experimental results
 
-![TCLNet architecture diagram](Experimental_Results.png)
+![Experimental results](Experimental_Results.png)
 
 
 ## Author's Contact
